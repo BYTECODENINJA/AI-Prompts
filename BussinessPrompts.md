@@ -53,21 +53,49 @@
 - Act as a customer-acquisition strategist. I have a [BUSINESS/PRODUCT/SERVICE] and need to find my first customers. First, ask me the essential questions about my target customer, offer, pricing, location or market, current network, and available resources. Then create a practical first-customer strategy covering outreach, referrals, partnerships, content, communities, sales conversations, and other suitable channels. Focus on approaches I can test with limited resources.
 
 ## 16. Improve My Business Offer
-Act as a product and offer strategist. Help me make my [PRODUCT/SERVICE] more valuable to customers.
-First, ask me the essential questions about my target customer, current offer, pricing, competitors, customer feedback, and business goals.
-Then identify weaknesses or unclear parts of the offer and suggest ways to improve the value proposition, packaging, pricing structure, customer experience, and differentiation.
+- Act as a product and offer strategist. Help me make my [PRODUCT/SERVICE] more valuable to customers. First, ask me the essential questions about my target customer, current offer, pricing, competitors, customer feedback, and business goals. Then identify weaknesses or unclear parts of the offer and suggest ways to improve the value proposition, packaging, pricing structure, customer experience, and differentiation.
 
 ## 17. Find Ways to Increase Revenue
-Act as a business growth strategist. Help me identify realistic ways to increase revenue in my business.
-First, ask me about my current customers, products or services, pricing, sales process, acquisition channels, retention, and costs.
-Then analyze opportunities across increasing customers, increasing average order value, improving retention, introducing new offerings, improving pricing, partnerships, and other relevant strategies. Prioritize the opportunities based on potential impact and practicality.
+- Act as a business growth strategist. Help me identify realistic ways to increase revenue in my business. First, ask me about my current customers, products or services, pricing, sales process, acquisition channels, retention, and costs. Then analyze opportunities across increasing customers, increasing average order value, improving retention, introducing new offerings, improving pricing, partnerships, and other relevant strategies. Prioritize the opportunities based on potential impact and practicality.
 
 ## 18. Identify What Is Holding My Business Back
-Act as an experienced business advisor. Help me diagnose why my business is not growing as expected.
-First, ask me the essential questions about revenue, customers, acquisition, conversion, retention, pricing, costs, operations, competition, and my current strategy.
-Then identify the most likely bottlenecks, distinguish symptoms from root causes, and create a prioritized action plan to address the biggest constraints.
+- Act as an experienced business advisor. Help me diagnose why my business is not growing as expected. First, ask me the essential questions about revenue, customers, acquisition, conversion, retention, pricing, costs, operations, competition, and my current strategy. Then identify the most likely bottlenecks, distinguish symptoms from root causes, and create a prioritized action plan to address the biggest constraints.
 
 ## 19. Build a 90-Day Business Plan
-Act as a practical business strategist. Help me create a 90-day plan to move my business forward.
-First, ask me the essential questions about my current business stage, goals, customers, revenue, resources, challenges, and available time.
-Then create a focused 90-day plan with clear priorities, weekly actions, measurable milestones, customer-validation activities, revenue goals, and progress metrics. Keep the plan realistic and focused on execution rather than trying to accomplish everything at once.
+- Act as a practical business strategist. Help me create a 90-day plan to move my business forward. First, ask me the essential questions about my current business stage, goals, customers, revenue, resources, challenges, and available time. Then create a focused 90-day plan with clear priorities, weekly actions, measurable milestones, customer-validation activities, revenue goals, and progress metrics. Keep the plan realistic and focused on execution rather than trying to accomplish everything at once.
+
+## 20. General bussiness strategy
+
+- I want you to act as my business idea strategist. I want to start a business but haven't decided what to build yet.
+
+- [X] My skills are [YOUR SKILLS].
+
+- [X] My interests are [YOUR INTERESTS].
+
+- [X] My budget is [BUDGET].
+
+- [X] The time I can dedicate is [HOURS PER WEEK].
+
+- Help me by:
+
+• Identifying business opportunities that match my skills and interests
+
+• Finding real problems people are willing to pay to solve
+
+• Suggesting business ideas with different levels of investment and difficulty
+
+• Evaluating each idea based on demand, competition, profitability, and scalability
+
+• Identifying the ideal target customer for each idea
+
+• Explaining how each business could make money
+
+• Highlighting the biggest risks and challenges
+
+• Ranking the ideas from strongest to weakest and explaining why
+
+• Creating a simple validation plan for the best idea before I invest significant money
+
+Don't give me generic ideas. Focus on realistic opportunities that match my situation.
+
+Start by asking me the most important questions you need to identify the right business opportunities.
